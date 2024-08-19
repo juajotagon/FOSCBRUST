@@ -1,2 +1,2 @@
 # FOSCBRUST
-Free Open Source Bot RUSToration
+Free Open Source Bot RUSToration 🦀🙏
